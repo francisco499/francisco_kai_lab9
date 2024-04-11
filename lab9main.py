@@ -5,6 +5,5 @@ def encode(password):
     new_password += new_char
   return new_password
 
-print(encoder("1234555"))
 
     
